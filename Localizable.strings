@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  ExilantFood
+
+  Created by neelam verma on 19/05/16.
+  Copyright © 2016 Exilant. All rights reserved.
+*/
+
+
+kLoginFailedDescription = "Please check email and password you have entered.";
+kLoginFailedTitle = "Login Failed";
+kRegistrationFailed = "Registration Failed";
+kPasswordMismatch = "Password mismatch.";
+kRegistrationSuccessTitle = "Registration Successful";
+kRegistrationSuccessDescription = "Welcome to Good food. Enjoy food available at our application.";
+kEmalIdAlreadayExistsDescripton =  "Email ID already exists.";
+
+kEmailValidationerror = "Email ID incorrect.";
+kNetworkError = "Network error.";
